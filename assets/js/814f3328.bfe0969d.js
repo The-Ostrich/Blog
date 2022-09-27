@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpwsh_blog=self.webpackChunkpwsh_blog||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Powershell Variables","permalink":"/Blog/blog/powershell-blog-power"}]}')}}]);
