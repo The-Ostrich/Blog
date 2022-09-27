@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkpwsh_blog=self.webpackChunkpwsh_blog||[]).push([[715],{8501:l=>{l.exports=JSON.parse('[{"label":"Powershell","permalink":"/Blog/blog/tags/powershell","count":1},{"label":"Variables","permalink":"/Blog/blog/tags/variables","count":1}]')}}]);
